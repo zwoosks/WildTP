@@ -1,0 +1,7 @@
+name: WildTeleport
+main: me.zwoosks.teleporter.teleportme
+version: 1.0
+commands:
+   wild:
+      description: Use /wild to teleport to any location of this world!
+      usage: /<command>
